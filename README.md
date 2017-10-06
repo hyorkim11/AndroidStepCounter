@@ -5,12 +5,12 @@ Step file name is declared as "userSteps.csv"
 
 # DESCRIPTION:
   Consists of 3 classes:
-    1. MainActivity
-      extends **AppCompatActivity**
-    2. AlarmReceiver
-      extends **BroadcastReceiver**
-    3. StepCountService
-      extends **IntentService** implements **SensorEventListener**
+  1. MainActivity
+  extends **AppCompatActivity**
+  2. AlarmReceiver
+  extends **BroadcastReceiver**
+  3. StepCountService
+  extends **IntentService** implements **SensorEventListener**
 
 *Log tag "XXX" implemented for debugging*
 
